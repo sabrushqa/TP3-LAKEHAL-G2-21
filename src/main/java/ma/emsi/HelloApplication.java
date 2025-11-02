@@ -1,4 +1,4 @@
-package ma.emsi.tp3lakehalg221;
+package ma.emsi;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;

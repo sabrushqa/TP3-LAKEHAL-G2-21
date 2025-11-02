@@ -1,4 +1,4 @@
-package ma.emsi.tp3lakehalg221;
+package ma.emsi;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
