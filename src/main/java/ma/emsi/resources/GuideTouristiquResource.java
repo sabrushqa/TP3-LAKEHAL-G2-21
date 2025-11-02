@@ -14,4 +14,6 @@ public class GuideTouristiquResource {
     public Response villeOuPays(@PathParam("ville_ou_pays") String lieu) {
         return Response.ok(lieu).build();
     }
+
+
 }
